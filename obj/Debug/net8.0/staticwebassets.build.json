@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EucY4drl9WfbYcX3A0L2TCNNCTWWTdQOyJ02ZFrmFwE=",
+  "Source": "Microservices.CQRS.Example",
+  "BasePath": "_content/Microservices.CQRS.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

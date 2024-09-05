@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Microservices.CQRS.Example.props" />
+</Project>
